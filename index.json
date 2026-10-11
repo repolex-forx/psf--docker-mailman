@@ -1,0 +1,11 @@
+{
+  "org": "psf",
+  "repo": "docker-mailman",
+  "versions": [
+    {
+      "commit": "6b091fc17a578437b320c9ae85bfe50d1a616aef",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:23:02.453706+00:00"
+    }
+  ]
+}
