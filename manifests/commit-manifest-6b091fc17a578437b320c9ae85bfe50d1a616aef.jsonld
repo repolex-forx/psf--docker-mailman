@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/docker-mailman/commit/6b091fc17a578437b320c9ae85bfe50d1a616aef",
+  "@type": "git:Commit",
+  "git:hexsha": "6b091fc17a578437b320c9ae85bfe50d1a616aef",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/psf/docker-mailman"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/6b091fc17a578437b320c9ae85bfe50d1a616aef.nq.gz",
+      "repolex:graphFileSize": 7997
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 321977
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 410
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T08:20:28.007253+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
